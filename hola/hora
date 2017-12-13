@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="descripción del contenido de la pagina" />
+    <meta name="keywords"  content="palabra 1, palabra 2, palabra N"/> 
+    <title>Mi Pagina 1</title>
+</head>
+
+<body>
+	<strong> Esta es una pagina WEB. </strong>
+Hola Mundo   
+</body>
+</html>
